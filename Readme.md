@@ -59,7 +59,7 @@ dataset
  <td><img src = 'img/facades_tf_eval63.jpg' ></td>
 </tr>
 <tr>
- <td><img src = 'img/facades_tf_eval40.jpg' ></td>
+ <td><img src = 'img/facades_tf_eval21.jpg' ></td>
 </tr>
 </table>
 
