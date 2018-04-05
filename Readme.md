@@ -19,7 +19,6 @@ dataset
 <tr align='center'>
  <td> pytorch implementaion(epoch = 200)</td>
  </tr>
-<tr>
 <tr align='center'>
  <td> generated image | input image | ground truth</td>
  </tr>
@@ -32,6 +31,9 @@ dataset
 <tr>
  <td><img src = 'img/facades_good_tor_eval9.jpg' ></td>
 </tr>
+<tr align='center'>
+ <td> bad case</td>
+ </tr>
 <tr>
  <td><img src = 'img/facades_bad_tor_eval1.jpg' ></td>
 </tr>
@@ -47,14 +49,17 @@ dataset
 <tr align='center'>
  <td> tensorflow implementaion(epoch = 200)</td>
  </tr>
+<tr align='center'>
+ <td> generated image | input image | ground truth</td>
+ </tr>
 <tr>
- <td><img src = 'img/cgan_eval9.jpg' ></td>
+ <td><img src = 'img/facades_tf_eval94.jpg' ></td>
 </tr>
 <tr>
- <td><img src = 'img/cgan_eval9.jpg' ></td>
+ <td><img src = 'img/facades_tf_eval63.jpg' ></td>
 </tr>
 <tr>
- <td><img src = 'img/cgan_eval9.jpg' ></td>
+ <td><img src = 'img/facades_tf_eval40.jpg' ></td>
 </tr>
 </table>
 
@@ -65,6 +70,9 @@ dataset
 <table align='center'>
 <tr align='center'>
  <td> pytorch implementaion(epoch = 200)</td>
+ </tr>
+<tr align='center'>
+ <td> generated image | input image | ground truth</td>
  </tr>
 <tr>
  <td><img src = 'img/citiscape_tor_eval7.jpg' ></td>
@@ -84,6 +92,9 @@ dataset
 <tr align='center'>
  <td> pytorch implementaion(epoch = 200)</td>
  </tr>
+<tr align='center'>
+ <td> generated image | input image | ground truth</td>
+ </tr>
 <tr>
  <td><img src = 'img/maps_tor_eval0.jpg' ></td>
 </tr>
@@ -100,7 +111,10 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(epoch = 200)</td>
+ <td> pytorch implementaion(epoch = 20)</td>
+ </tr>
+<tr align='center'>
+ <td> generated image | input image | ground truth</td>
  </tr>
 <tr>
  <td><img src = 'img/edgestoshoes_tor_eval7.jpg' ></td>
@@ -118,7 +132,10 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(epoch = 200)</td>
+ <td> pytorch implementaion(epoch = 1)</td>
+ </tr>
+<tr align='center'>
+ <td> generated image | input image | ground truth</td>
  </tr>
 <tr>
  <td><img src = 'img/edgestohandbags_tor_eval71.jpg' ></td>
